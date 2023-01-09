@@ -60,6 +60,7 @@ openApiGenerate {
             "additionalModelTypeAnnotations": "@lombok.AllArgsConstructor; @lombok.Builder; @lombok.NoArgsConstructor",
             "useBeanValidation" : "true"
     ]
+
 }
 
 apply plugin: 'org.openapi.generator'
